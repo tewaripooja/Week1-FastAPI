@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+ddgs
+openai
+python-dotenv
